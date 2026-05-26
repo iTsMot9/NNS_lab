@@ -7,3 +7,5 @@
 - http://localhost:8888/
 - pass = 1234
 - /data/Lab.ipynb
+
+Решение, комментарии и выводы по работе и данным winequality-dataset_updated находятся в /data/Lab.ipynb
